@@ -2,7 +2,7 @@
 ### by Don Falk
 
 ---
-![Zombie Asylum](images/screenshot.png)
+![Zombie Asylum](screenshot.png)
 ---
 
 ## Recommended System Requirements
